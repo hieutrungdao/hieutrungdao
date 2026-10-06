@@ -1,10 +1,8 @@
-- 👋 Hi, I’m @hieutrungdao
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+### hey, I'm Hieu 👋
 
-<!---
-hieutrungdao/hieutrungdao is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+AI engineer in Hanoi. I build LLMs and the agents that use them.
+
+- 🧠 these days: agents that get better on their own, no retraining needed
+- 🛠️ before that: fine-tuning LLMs, shipping ML to the edge
+
+say hi → [hieutrungdao.github.io](https://hieutrungdao.github.io) · [linkedin](https://www.linkedin.com/in/hieu-dao-597a83187)
